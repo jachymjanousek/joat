@@ -1,5 +1,5 @@
 ---
-title: 'Příchod Gen AI a jak odmítnout spracování osobních údajů společnosti Meta (FB/IG)'
+title: 'Příchod Meta Gen AI a jak odmítnout spracování osobních údajů společnosti Meta (FB/IG)'
 date: 2024-06-17T23:38:18+02:00
 params:
    update: 2024-06-18T13:17:18+02:00
