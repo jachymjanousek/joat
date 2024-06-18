@@ -63,8 +63,8 @@ Níže najdete volně přepsaný postup z Redditu od uživatele JackPieCZ: [Náv
 
 **Formulář je potřeba vyplnit dvakrát - jednou pro Facebook, jednou pro Instagram** (formulář je stejný, jen se liší v odkazu)
 
-1.a) Facebook – Jděte na stránku: [Centrum soukromí/Privacy Centre](https://www.facebook.com/privacy/genai)
-1.b) Instagram – Jděte na stránku: [Centrum soukromí/Help Center](https://help.instagram.com/contact/233964459562201)
+[Facebook](https://www.facebook.com/privacy/genai)
+[Instagram](https://help.instagram.com/contact/233964459562201)
 1) Po kliknutí na odkaz se zobrazí formulář, který je třeba vyplnit a odeslat.
 2) Formulář obsahuje následující pole:
    - Země, kde žijete (Povinné) / Country of residence (Required)
