@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JOAT</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on JOAT</description>
+    <generator>Hugo</generator>
+    <language>cz-cs</language>
+    <lastBuildDate>Mon, 17 Jun 2024 23:38:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Příchod Gen AI a jak odmítnout spracování osobních údajů Facebookem</title>
+      <link>http://localhost:1313/posts/prichod-gen-ai-a-jak-odmitnout-facebook/</link>
+      <pubDate>Mon, 17 Jun 2024 23:38:18 +0200</pubDate>
+      <guid>http://localhost:1313/posts/prichod-gen-ai-a-jak-odmitnout-facebook/</guid>
+      <description>UPDATE 17. 6. 2024&#xA;Meta pozastavila plány s učením AI na datech z EU. Stanovisko Mety zatím není známé. O pozastavení víme z Irské DPC (Data Protection Comission).&#xA;Update: Irish Data Protection Commission – DPC (úřad pro ochranu dat) vznesli námitku. Facebook pouze odkládá užití dat z EU, tedy stále platí, že pokud nechcete, aby Facebook používal vaše data pro trénování Gen AI, můžete to odmítnout.&#xA;Naštěstí je mezi námi více digitálních samaritánů, než by se mohlo zdát.</description>
+    </item>
+  </channel>
+</rss>
