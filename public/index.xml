@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JOAT</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on JOAT</description>
-    <generator>Hugo</generator>
-    <language>cz-cs</language>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>cs-CZ</language>
     <lastBuildDate>Mon, 17 Jun 2024 23:38:18 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Příchod Gen AI a jak odmítnout spracování osobních údajů Facebookem</title>
-      <link>http://localhost:1313/posts/prichod-gen-ai-a-jak-odmitnout-facebook/</link>
+      <title>Příchod Gen AI a jak odmítnout spracování osobních údajů společnosti Meta (FB/IG)</title>
+      <link>//localhost:1313/2024/prichod-gen-ai-a-jak-odmitnout-facebook/</link>
       <pubDate>Mon, 17 Jun 2024 23:38:18 +0200</pubDate>
-      <guid>http://localhost:1313/posts/prichod-gen-ai-a-jak-odmitnout-facebook/</guid>
-      <description>UPDATE 17. 6. 2024&#xA;Meta pozastavila plány s učením AI na datech z EU. Stanovisko Mety zatím není známé. O pozastavení víme z Irské DPC (Data Protection Comission).&#xA;Update: Irish Data Protection Commission – DPC (úřad pro ochranu dat) vznesli námitku. Facebook pouze odkládá užití dat z EU, tedy stále platí, že pokud nechcete, aby Facebook používal vaše data pro trénování Gen AI, můžete to odmítnout.&#xA;Naštěstí je mezi námi více digitálních samaritánů, než by se mohlo zdát.</description>
+      <guid>//localhost:1313/2024/prichod-gen-ai-a-jak-odmitnout-facebook/</guid>
+      <description>17. 6.: Irish Data Protection Commission – DPC (úřad pro ochranu dat) vznesli námitku. Meta pouze pozastavila plány s učením AI na datech z EU.
+Naštěstí je mezi námi více digitálních samaritánů, než by se mohlo zdát. Návod jsem nemusel psát sám, ale našel jsem ho na Redditu. Tímto patří dík uživateli JackPieCZ za návod, který jsem volně přepsal. Čánek pojednáva o tom, proč je pro někoho důležité odmítnout spracování osobních údajů Facebookem pro trénování Gen AI, dilema kolem Facebooku a jeho monopolu na sociální sítě a proč má Facebook takový zájem o vaše data.</description>
     </item>
   </channel>
 </rss>

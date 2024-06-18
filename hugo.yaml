@@ -1,0 +1,33 @@
+DefaultContentLanguage: cs
+theme: papermod
+contentdir: content
+layoutdir: layouts
+publishdir: public
+paginate: 5
+title: JOAT
+description: "JOAT – Jack of all trades, master of none"
+permalinks:
+  post: :slug/
+  page: :slug/
+  tags: "tag/:slug/"
+author: "author/:slug/"
+
+
+languages:
+  cs:
+    contentDir: content/posts
+    languageCode: cs-CZ
+    languageName: Czech
+    params:
+      reading_speed: 179
+      DateFormat: "02. January 2006"
+    weight: 2
+  en:
+    contentDir: content/en
+    languageCode: en-US
+    languageName: English
+    params:
+      reading_speed: 228
+    weight: 1
+
+ShowReadingTime: true
